@@ -75,6 +75,21 @@ h1 {
     font-size: 20px;
 }
 
+.nickname {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.altname {
+    font-size: 13px;
+    text-align: center;
+}
+
+.name {
+    padding: 10% 0% 10% 0%;
+}
+
 .status {
     font-size: 13px;
     text-align: center;
